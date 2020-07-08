@@ -10,7 +10,6 @@ function App() {
     <div className="logon-container">
     <section className="form">
     <img src={logoImg} alt="Logo"/>
-    <img src={platImg} alt="Vinicius Podcast"/>
 
         <form>
         <h1 color="white"> Apresentado por: André Vinicius </h1>
