@@ -1,38 +1,54 @@
-.App {
-  text-align: center;
-}
+.logon-container {
+  width: 100%;
+  max-width: 1120px;
+  height: 100vh;
+  margin: 0 auto;
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
-  flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  justify-content: space-between;
+}
+
+.logon-container section.form {
+  width: 100%;
+  max-width: 400px;
+  margin: 30px;
+}
+
+.logon-container section.form form {
+  margin-top: 0px;
+}
+
+.logon-container section.form form h1 {
+  font-size: 32px;
+  margin-bottom: 0px;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.logon-container section.form form h2 {
+  font-size: 12px;
+  margin-top: 12px;
+  margin-bottom: 0px;
+  color: white;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.logon-container section.form form h3 {
+  font-size: 22px;
+  margin-top: 0px;
+  margin-bottom: 12px;
+  color: white;
 }
+
+.logon-container section.form form a {
+  text-align: center;
+}
+
+.logon-container section.form form b {
+  text-align: center;
+}
+
+
+.logon-container section.form form c {
+  text-align: center;
+}
+
