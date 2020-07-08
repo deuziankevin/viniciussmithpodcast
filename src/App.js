@@ -33,7 +33,7 @@ function App() {
 
           <a
           className="pocket"
-          href="https://anchor.fm/andru00e9-vinu00edcius-sm/episodes/Introduo-do-Podcast-Vincius-Smith-egevs6"
+          href="https://pca.st/su0c5xd4"
           target="_blank"
           >
             Pocket
