@@ -20,35 +20,22 @@
 }
 
 .logon-container section.form form h1 {
-  font-size: 32px;
-  margin-bottom: 0px;
-  color: white;
-}
-
-.logon-container section.form form h2 {
-  font-size: 12px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  color: white;
-}
-
-.logon-container section.form form h3 {
   font-size: 22px;
   margin-top: 0px;
   margin-bottom: 12px;
   color: white;
 }
 
-.logon-container section.form form a {
-  text-align: center;
+.logon-container section.form form h2 {
+  font-size: 32px;
+  margin-bottom: 0px;
+  color: white;
 }
 
-.logon-container section.form form b {
-  text-align: center;
-}
-
-
-.logon-container section.form form c {
-  text-align: center;
+.logon-container section.form form h3 {
+  font-size: 12px;
+  margin-top: 12px;
+  margin-bottom: 0px;
+  color: white;
 }
 

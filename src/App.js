@@ -10,37 +10,39 @@ function App() {
     <div className="logon-container">
     <section className="form">
     <img src={logoImg} alt="Logo"/>
+
         <form>
-        <h3 color="white"> Apresentado por: André Vinicius </h3>
-            <h1 color="white"> Ouça agora </h1>
+        <h1 color="white"> Apresentado por: André Vinicius </h1>
+            <h2 color="white"> Ouça agora </h2>
 
             <a
-          className="button-spotify"
+          className="spotify"
           href="https://open.spotify.com/show/1LrOXnIWjlW6NikfnwmTdu"
           target="_blank"
           >
             Spotify
           </a>
 
-          <b
-          className="button-anchor"
-          href="https://hltv.org/"
+          <a
+          className="anchor"
+          href="https://anchor.fm/andru00e9-vinu00edcius-sm/episodes/Introduo-do-Podcast-Vincius-Smith-egevs6"
           target="_blank"
           >
             Anchor
-          </b>
+          </a>
 
-          <c
-          className="button-pocket"
-          href="https://open.spotify.com/show/1LrOXnIWjlW6NikfnwmTdu"
+          <a
+          className="pocket"
+          href="https://anchor.fm/andru00e9-vinu00edcius-sm/episodes/Introduo-do-Podcast-Vincius-Smith-egevs6"
           target="_blank"
           >
             Pocket
-          </c>
+          </a>
 
-            <h2 color="white"> Desenvolvido por Kevin Calheiros, 2020. </h2>
+            <h3 color="white"> Desenvolvido por Kevin Calheiros, 2020. </h3>
+            </form>
 
-        </form>
+
     </section>
     <img src={platImg} alt="Vinicius Podcast"/>
 </div>
