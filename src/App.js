@@ -6,13 +6,13 @@ import logoImg from './logo256.png'
 import platImg from './plat1.jpeg';
 
 function App() {
-  <head> <script data-ad-client="ca-pub-9220422015200489" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> </head>
   return (
     <div className="logon-container">
     <section className="form">
     <img src={logoImg} alt="Logo"/>
 
         <form>
+    <head> <script data-ad-client="ca-pub-9220422015200489" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> </head>
         <h1 color="white"> Apresentado por: André Vinicius </h1>
             <h2 color="white"> Ouça agora </h2>
 
